@@ -1,0 +1,3 @@
+- Nama : Alfian Muhamad Rizal yuristya
+- NIM : 0110219114
+- Prodi : TI 02
